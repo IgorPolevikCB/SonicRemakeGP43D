@@ -1,0 +1,16 @@
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\bin\Debug\SonicRemakeGP43D.exe.config
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\bin\Debug\SonicRemakeGP43D.exe
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\bin\Debug\SonicRemakeGP43D.pdb
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.csprojAssemblyReference.cache
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.MainMenu.resources
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.Properties.Resources.resources
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.csproj.GenerateResource.cache
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.csproj.CoreCompileInputs.cache
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.csproj.CopyComplete
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.exe
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.pdb
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.GameFormLevel1.resources
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.GameFormLevel2.resources
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.GameFormLevel3.resources
+C:\Users\IgorPC\Desktop\SonicRemakeGP43D\SonicRemakeGP43D\obj\Debug\SonicRemakeGP43D.GameFormInfinite.resources

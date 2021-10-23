@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe.config
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.pdb
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.exe
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.pdb
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.MainMenu.resources
+C:\Users\user\Desktop\Новая папка\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.GameForm.resources
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe.config
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.pdb
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csprojAssemblyReference.cache
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.GameForm.resources
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.MainMenu.resources
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.Properties.Resources.resources
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.GenerateResource.cache
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.exe
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.pdb
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IgorPC\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.CopyComplete
